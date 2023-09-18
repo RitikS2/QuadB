@@ -8,7 +8,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Muntazir Haider",
+  "author": "Ritik Sharma",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
